@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mapinha</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="denied_location_message">Without your location the app cannot get nearby venues :( We will use a default location instead.</string>
+    <string name="location_error_message">Not able to get your location :/\nWe will use a default location instead.</string>
+    <string name="venue_category_image_placeholder">Venue category image placeholder</string>
+</resources>
